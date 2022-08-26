@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: anand24f5/fastimage:latest
+          image: anand24f5/dockimage:latest
           imagePullPolicy: Always
